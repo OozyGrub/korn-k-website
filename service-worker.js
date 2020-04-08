@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/korn-k-website/precache-manifest.ecdaab66d970d0d22d144a6fd9b674f8.js"
+  "/korn-k-website/precache-manifest.bb1fa1082bcb4c2072eaecacec9117c1.js"
 );
 
 self.addEventListener('message', (event) => {
