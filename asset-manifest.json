@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/korn-k-website/static/css/main.d43e038b.chunk.css",
+    "main.js": "/korn-k-website/static/js/main.5dfd6855.chunk.js",
+    "main.js.map": "/korn-k-website/static/js/main.5dfd6855.chunk.js.map",
+    "runtime-main.js": "/korn-k-website/static/js/runtime-main.e5f0361f.js",
+    "runtime-main.js.map": "/korn-k-website/static/js/runtime-main.e5f0361f.js.map",
+    "static/js/2.c61ab58a.chunk.js": "/korn-k-website/static/js/2.c61ab58a.chunk.js",
+    "static/js/2.c61ab58a.chunk.js.map": "/korn-k-website/static/js/2.c61ab58a.chunk.js.map",
+    "index.html": "/korn-k-website/index.html",
+    "precache-manifest.9452641564c1510b969502ea43780d0e.js": "/korn-k-website/precache-manifest.9452641564c1510b969502ea43780d0e.js",
+    "service-worker.js": "/korn-k-website/service-worker.js",
+    "static/css/main.d43e038b.chunk.css.map": "/korn-k-website/static/css/main.d43e038b.chunk.css.map",
+    "static/js/2.c61ab58a.chunk.js.LICENSE.txt": "/korn-k-website/static/js/2.c61ab58a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5f0361f.js",
+    "static/js/2.c61ab58a.chunk.js",
+    "static/css/main.d43e038b.chunk.css",
+    "static/js/main.5dfd6855.chunk.js"
+  ]
+}
