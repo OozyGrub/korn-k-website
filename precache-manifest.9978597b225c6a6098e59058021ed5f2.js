@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14d954e36d1de1ac5d92ff8ff8552626",
+    "revision": "0db140000ae81f28d27a48c3712420d6",
     "url": "/korn-k-website/index.html"
   },
   {
-    "revision": "f99cd6313cbcf908f0a5",
+    "revision": "0f60d89e0e081848ea0e",
     "url": "/korn-k-website/static/css/main.d43e038b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/korn-k-website/static/js/2.5604fdc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f99cd6313cbcf908f0a5",
-    "url": "/korn-k-website/static/js/main.a9dc9b96.chunk.js"
+    "revision": "0f60d89e0e081848ea0e",
+    "url": "/korn-k-website/static/js/main.124080d7.chunk.js"
   },
   {
     "revision": "0537a8130da80973385a",
